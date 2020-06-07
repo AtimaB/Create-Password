@@ -14,3 +14,7 @@ Once you click button "Generate Password". It will have prompt message says "How
 <br>
 <br>
 If the user choose less than 8 characters or more than 128 characters. The alert message will warn the user to choose the right amount of characters.
+<img width="855" alt="Screen Shot 2020-06-06 at 1 25 25 PM" src="https://user-images.githubusercontent.com/64511825/83980851-2f677b00-a8d6-11ea-9033-5e5636b81182.png">
+<br>
+<br>
+Then the user will be asked if the user wants to included "lower Case","Upper Case","Numbers" or "Symbols" in the password.
