@@ -37,7 +37,11 @@ After the user successfully follows all these step. The password will be created
 <br>
 <img width="847" alt="Screen Shot 2020-06-06 at 1 26 23 PM" src="https://user-images.githubusercontent.com/64511825/83981053-9e919f00-a8d7-11ea-933a-c5accdb4b44f.png">
 
-## Resources
+## Special Thanks
 Thank you very much to "Cade Petersen", he is in my group study.He has helped me so much with not only this assignment but all the JavaScript issues I've had in class too. 
 <br>
+## Resources
+[JavaScript Password Generator by Vincent Lab](https://www.youtube.com/watch?v=PtnYuiIyqeM/)
+
+
 
