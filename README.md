@@ -9,12 +9,26 @@ This application generates a random password based on user-selected criteria. It
 
 ## How does this password generator application work?
 <br>
-Once you click button "Generate Password". It will have prompt message says "How many characters would you like for your password?". User has to choose between 8-128 characters.
+Once you click button "Generate Password". It will have prompt message says "How many characters would you like for your password?". User has to choose between 8-128 characters.<br>
 <img width="842" alt="Screen Shot 2020-06-06 at 1 25 06 PM" src="https://user-images.githubusercontent.com/64511825/83976147-7abd6180-a8b5-11ea-9380-62c7914be869.png">
 <br>
 <br>
-If the user choose less than 8 characters or more than 128 characters. The alert message will warn the user to choose the right amount of characters.
+If the user choose less than 8 characters or more than 128 characters. The alert message will warn the user to choose the right amount of characters.<br>
 <img width="855" alt="Screen Shot 2020-06-06 at 1 25 25 PM" src="https://user-images.githubusercontent.com/64511825/83980851-2f677b00-a8d6-11ea-9033-5e5636b81182.png">
 <br>
 <br>
-Then the user will be asked if the user wants to included "lower Case","Upper Case","Numbers" or "Symbols" in the password.
+Then the user will be asked if the user wants to included "lower Case","Upper Case","Numbers" or "Symbols" in the password.<br>
+
+<img width="841" alt="Screen Shot 2020-06-06 at 1 25 45 PM" src="https://user-images.githubusercontent.com/64511825/83980935-bcaacf80-a8d6-11ea-96ed-1d10c5ec2a9f.png">
+<br>
+<img width="832" alt="Screen Shot 2020-06-06 at 1 25 57 PM" src="https://user-images.githubusercontent.com/64511825/83980937-c16f8380-a8d6-11ea-9065-86e3e5d3c16e.png">
+<br>
+<img width="836" alt="Screen Shot 2020-06-06 at 1 26 06 PM" src="https://user-images.githubusercontent.com/64511825/83980941-c5030a80-a8d6-11ea-86b8-b0fd22c07351.png">
+<br>
+<img width="818" alt="Screen Shot 2020-06-06 at 1 26 14 PM" src="https://user-images.githubusercontent.com/64511825/83980942-c8969180-a8d6-11ea-99ab-0a7fcd46dbc1.png">
+<br>
+<br>
+But if the user doesn't included any of the character types, It will have an alert message to warn the user to choose at least  1 character type.
+<br>
+
+
