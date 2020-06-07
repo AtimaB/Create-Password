@@ -30,5 +30,9 @@ Then the user will be asked if the user wants to included "lower Case","Upper Ca
 <br>
 But if the user doesn't included any of the character types, It will have an alert message to warn the user to choose at least  1 character type.
 <br>
-
+<img width="865" alt="Screen Shot 2020-06-06 at 1 28 33 PM" src="https://user-images.githubusercontent.com/64511825/83981002-465a9d00-a8d7-11ea-99c3-8ed4fad1c998.png">
+<br>
+<br>
+After the user successfully follows all these step. The password will be created.
+<br>
 
