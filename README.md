@@ -11,3 +11,6 @@ This application generates a random password based on user-selected criteria. It
 <br>
 Once you click button "Generate Password". It will have prompt message says "How many characters would you like for your password?". User has to choose between 8-128 characters.
 <img width="842" alt="Screen Shot 2020-06-06 at 1 25 06 PM" src="https://user-images.githubusercontent.com/64511825/83976147-7abd6180-a8b5-11ea-9380-62c7914be869.png">
+<br>
+<br>
+If the user choose less than 8 characters or more than 128 characters. The alert message will warn the user to choose the right amount of characters.
